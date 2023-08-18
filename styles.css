@@ -34,8 +34,9 @@ h1{
 h2{
     font-size: 36px;
     font-weight: bold;
-    color: rgb(31,  41,  55));
-}
+    color: rgb(31,  41,  55);
+    text-align: center;
+ }
 .flex-container {
     flex-direction: row;
     display: flex;
