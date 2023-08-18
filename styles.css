@@ -24,7 +24,9 @@ p{
     color: rgb(229, 231, 235);
 }
 img{
-    flex: 1;
+    width: 600px;
+    height: 250px;
+    margin: 10px;
 }
 h1{
     color: rgb(249, 250, 248);
