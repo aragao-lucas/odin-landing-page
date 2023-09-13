@@ -41,7 +41,7 @@ h2{
     flex-direction: row;
     display: flex;
   }
-.flex-container div {
+.item{
   background: white;
   border: 2px solid rgb(0, 119, 255);
   height: 150px;
@@ -62,4 +62,12 @@ h2{
 }
 h3{
     font-size: 40px;
+}
+h6{
+    font-size: 20px;
+}
+.item2{
+  flex: 1 1 auto;
+  flex: 1;
+  margin: 10px;
 }
