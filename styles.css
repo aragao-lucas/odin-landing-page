@@ -18,7 +18,7 @@ h4{
     font-size: 24px;
 }
 p{
-    font-size: 18px;
+    font-size: 30px;
     flex: 1;
     color: rgb(229, 231, 235);
 }
@@ -70,9 +70,6 @@ h6{
 img{
     height: 150px;
     width: 420px;
-}
-p{
-    font-size: 30px;
 }
 button{
     width: 150px;
